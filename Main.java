@@ -1,1 +1,4 @@
-public void main
+public class Main 
+{
+    public void Main
+}
